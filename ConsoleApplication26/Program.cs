@@ -11,6 +11,7 @@ namespace ConsoleApplication26
         static void Main(string[] args)
         {
             Console.WriteLine("FIRST FIRST TRY");
+            Console.WriteLine("Check 2");
         }
     }
 }
