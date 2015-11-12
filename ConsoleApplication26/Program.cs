@@ -12,6 +12,7 @@ namespace ConsoleApplication26
         {
             Console.WriteLine("FIRST FIRST TRY");
             Console.WriteLine("Check 2");
+            Console.WriteLine("Check 2");
         }
     }
 }
